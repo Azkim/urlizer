@@ -1,0 +1,1 @@
+https://tutorialzine.com/2013/12/quick-tip-create-a-simple-url-shortener-with-10-lines-of-php
